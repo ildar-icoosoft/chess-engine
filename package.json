@@ -23,12 +23,6 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "prettier": {
-    "printWidth": 80,
-    "semi": true,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  },
   "name": "chess-engine",
   "author": "ildar",
   "module": "dist/chess-engine.esm.js",
